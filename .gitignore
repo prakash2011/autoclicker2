@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime files
+*.log
+*.pid
+.*.pid
+
+# Debug snapshots
+debug_*.png

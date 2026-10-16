@@ -1,0 +1,61 @@
+[2026-10-17 01:38:11] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.8)
+[2026-10-17 01:38:11] 🖥️ Detected OS: Windows (using native Win32 + MSS backend)
+[2026-10-17 01:51:44] 🛑 Interrupted by user.
+[2026-10-17 01:51:44] ✨ Auto-Submit stopped.
+[2026-10-17 01:52:16] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.8)
+[2026-10-17 01:52:16] 🖥️ Detected OS: Windows (using native Win32 + MSS backend)
+[2026-10-17 02:00:06] 🖥️ Detected OS: Windows (using native Win32 + MSS backend)
+[2026-10-17 02:12:33] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:13:02] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:13:33] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:13:33] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+5)
+[2026-10-17 02:13:33] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:15:32] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:15:57] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:15:57] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:16:29] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:16:29] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:17:57] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:17:57] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:18:11] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:18:11] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:18:17] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:18:17] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:18:30] 🎯 Submit button detected at (851, 696) [Score: 0.764]
+[2026-10-17 02:18:30] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:18:30] 🎯 Submit button detected at (851, 696) [Score: 0.764]
+[2026-10-17 02:18:30] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:21:38] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:21:38] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:22:23] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:23:52] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:23:52] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:25:20] 🛑 Received shutdown signal, stopping...
+[2026-10-17 02:25:20] ✨ Auto-Submit stopped.
+[2026-10-17 02:25:29] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:25:29] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:27:27] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:29:22] 🛑 Received shutdown signal, stopping...
+[2026-10-17 02:29:22] ✨ Auto-Submit stopped.
+[2026-10-17 02:29:36] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:29:36] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:30:07] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:30:07] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:30:20] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:30:20] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:32:17] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:32:17] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:34:05] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:34:05] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:34:07] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:34:14] 🎯 Submit button detected at (851, 696) [Score: 0.764]
+[2026-10-17 02:34:15] ✅ Click successfully sent to (851, 696)
+[2026-10-17 02:35:03] 🛑 Received shutdown signal, stopping...
+[2026-10-17 02:35:03] 🛑 Received shutdown signal, stopping...
+[2026-10-17 02:35:03] 🛑 Received shutdown signal, stopping...
+[2026-10-17 02:35:03] ✨ Auto-Submit stopped.
+[2026-10-17 02:35:37] 🚀 Universal Auto-Submit running on Windows (interval=0.35s, threshold=0.75)
+[2026-10-17 02:35:37] 🖥️ Detected OS: Windows (using native Win32 + MSS backend, monitor=0)
+[2026-10-17 02:38:21] 🎯 Submit button detected at (851, 696) [Score: 0.755]
+[2026-10-17 02:38:21] ✅ Click successfully sent to (851, 696)
